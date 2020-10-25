@@ -2,6 +2,10 @@ import solutions.*;
 
 import java.util.Arrays;
 
+/**
+ * 稳定排序：插入排序、冒泡排序、归并排序、基数排序
+ * 非稳定排序：希尔排序、堆排序、选择排序、快速排序
+ */
 public class Main {
     public static void main(String[] args) {
         bubbleSort();
